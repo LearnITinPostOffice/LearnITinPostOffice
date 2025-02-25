@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LearnITinPostOffice
+- 👋 Hi, 
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning C++
 - 📫 How to reach me fb: https://www.facebook.com/sinhvienbuudien.init
